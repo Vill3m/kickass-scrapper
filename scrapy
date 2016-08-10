@@ -1,0 +1,2 @@
+
+D:\Data\kickasstorrents>crawl index -a category=books  1>scrapy 2>err.txt 
